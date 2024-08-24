@@ -4,7 +4,7 @@
 */
 
 // Fill mags on arsenal reload
-KP_liberation_fill_mags = true
+KP_liberation_fill_mags = true;
 
 // Vehicle classnames which also function as ACE medical vehicles.
 KP_liberation_medical_vehicles = [
