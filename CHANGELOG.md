@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.96.7b (2024-08-24)
+* Added: Support for arsenals with ace (update to CBA_A3 arsenal loading if ace detected)
+
 ## 0.96.7a (2020-09-12)
 * Added: Contact DLC static weapon backpacks to default blacklist.
 * Added: Czech translation. Thanks to [MJVEVERUSKA](https://github.com/MJVEVERUSKA)
